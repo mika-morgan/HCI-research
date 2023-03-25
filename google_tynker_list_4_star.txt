@@ -1,0 +1,10 @@
+{"star_rating": "4", "review": "I like this coding app, it made me expand my imagination when I was younger. I really loved it but then, when my iPad broke I cried because of all of the missing projects I had on here, but, Tynker, I love you, you're awesome", "date": "2022-03-26 15:44:16"}
+{"star_rating": "4", "review": "So good app but have apk mode", "date": "2022-03-18 21:29:25"}
+{"star_rating": "4", "review": "Not to be mean but I don't like it because I don't know how to do Minecraft stuff", "date": "2022-02-26 06:41:04"}
+{"star_rating": "4", "review": "It's a good coding app that's not too hard but it still is a little difficult. But, when I left my project I hadn't saved it completely restarted, I'ved save before that! And I can only test movement on pc! So not only had I not been able to test it yet.. but it completely restarted.", "date": "2022-02-15 20:14:13"}
+{"star_rating": "4", "review": "Really good! But I use scratch now", "date": "2022-01-09 08:22:19"}
+{"star_rating": "4", "review": "Can y'all make it so you can code Minecraft mods two", "date": "2021-11-22 22:39:35"}
+{"star_rating": "4", "review": "Where the actual heck are the Minecraft stuff? Apologizes, my 11 year old son is Austic and wrote this review.", "date": "2021-10-16 13:22:40"}
+{"star_rating": "4", "review": "i had to delete my storage but overall...good", "date": "2021-10-08 03:27:05"}
+{"star_rating": "4", "review": "I cant publish anything can you add this to the update?", "date": "2021-09-18 12:07:55"}
+{"star_rating": "4", "review": "This app is best but pls remove the password", "date": "2021-09-13 23:16:02"}

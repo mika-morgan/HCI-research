@@ -1,0 +1,3 @@
+{"star_rating": "2", "review": "The app is ok, if you're willing to pay a fortune for something which is available for free. I subscribed though, but the kids didn't like it much. My card expired before the renewal so the payment didn't go through, but the app was blocked even though I had 10 days left. I asked the support about the 10 days but they didn't address this question, they told that i'd need to pay the subscription. Ever since I'm getting almost daily emails, unsubscribing equals with voiding my email preferences.", "date": "2022-06-16 01:16:47"}
+{"star_rating": "2", "review": "It is not free", "date": "2022-05-25 18:24:53"}
+{"star_rating": "2", "review": "Why does this game have a free trial? Can it be free?", "date": "2022-05-12 19:26:26"}

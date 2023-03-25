@@ -1,0 +1,11 @@
+{"star_rating": "3", "review": "I don't know why I can't move text in these application. It is true the other things but not for text", "date": "2022-08-26 15:17:40"}
+{"star_rating": "3", "review": "ScratchJr is a very fun app to play it's for kids and beginners to code. I played ScratchJr before, but I changed to Scratch (Normal Version). The reason is the projects I've done was gone, I put a lot of effort in it. But when I check it a week later, it is gone. And the app started glitching, the colour palette for drawing is also gone. Please fix the glitch, and if you can, please help me get my project back. Thank you.", "date": "2022-08-23 03:27:56"}
+{"star_rating": "3", "review": "Good", "date": "2022-08-19 08:17:59"}
+{"star_rating": "3", "review": "Tynker is better than sratch jr", "date": "2022-08-05 07:51:54"}
+{"star_rating": "3", "review": "Good", "date": "2022-08-04 07:57:06"}
+{"star_rating": "3", "review": "Boting", "date": "2022-08-03 08:20:58"}
+{"star_rating": "3", "review": "This app is great and all but can you fix 2 things? First when im trying to exit the project it doesn't log off! So I have to restart the app to get off the project. Second when im trying to delete unwanted projects it doesn't work! May you please fix these issues. Overall it's a great game for me!(I'm a kid)", "date": "2022-07-25 06:53:51"}
+{"star_rating": "3", "review": "It is good but the drawing is very small please fix that I get very mad with that so please,just fix it\ud83d\ude4f", "date": "2022-07-09 03:08:38"}
+{"star_rating": "3", "review": "to be honest, the drawing part is.. ..quite terrible.", "date": "2022-06-24 00:26:15"}
+{"star_rating": "3", "review": "when scratch 3.0 get ported to google play", "date": "2022-06-24 00:01:48"}
+{"star_rating": "3", "review": "Fun but something is quite different... The sprites are only 4 available and we want more than 4 sprites. I mean why only 4? Also while drawing, I sometimes draw lines but it automatically connects to another line which makes it a bit worse than Scratch. Also please add a few blocks (not much but at least a few would make me happier).", "date": "2022-06-19 21:48:52"}

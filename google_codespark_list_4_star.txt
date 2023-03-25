@@ -1,0 +1,6 @@
+{"star_rating": "4", "review": "It's good when I played it with no pay", "date": "2022-06-03 23:52:07"}
+{"star_rating": "4", "review": "I love the app! I did run into a few bugs. When writing text and using a caution emoji in that text, it would glitch and exit, when in playmode, when walking by the object I used that emoji on. Also some of the puzzle levels on the first 4 sections won't unlock. It just has a star with 22 inside it. How do I unlock those levels? And under the Pet Pals the new items I'm suppose to use throughout the days aren't showing up. Just the first 3. Other than a few bugs, I've really enjoyed this app.", "date": "2022-05-27 19:26:05"}
+{"star_rating": "4", "review": "Breaking Android News, When Woz builds he jumps and then floats in the air. Can Codespark academy fix it?", "date": "2022-05-24 02:03:47"}
+{"star_rating": "4", "review": "Looks so much fun but can you make the game not need to sighn in", "date": "2022-05-21 06:47:31"}
+{"star_rating": "4", "review": "can you care the code spa", "date": "2022-05-15 07:11:58"}
+{"star_rating": "4", "review": "VERY GOOD FOR KIDS LEARNING", "date": "2022-05-14 08:56:19"}

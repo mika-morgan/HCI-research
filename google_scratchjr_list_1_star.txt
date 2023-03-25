@@ -1,0 +1,18 @@
+{"star_rating": "1", "review": "Wish i could give zero stars, APP IS HORRIBLE. NORMAL SCRATCH IS WAY BETTER, LIMITED BLOCKS, NO EXTENSIONS, IT'S SCRATCH, BUT 1/4. HORRIBLE, DON'T DOWNLOAD.", "date": "2022-08-19 23:27:40"}
+{"star_rating": "1", "review": "afg", "date": "2022-08-19 10:20:33"}
+{"star_rating": "1", "review": "Not able to install.", "date": "2022-08-07 00:39:11"}
+{"star_rating": "1", "review": "Seas bich", "date": "2022-08-02 15:12:14"}
+{"star_rating": "1", "review": "Good game", "date": "2022-07-27 09:05:27"}
+{"star_rating": "1", "review": "This is stupid. Scratch itself would have worked. As a child myself I refuse to be treated like some sort of idiot.", "date": "2022-07-26 13:31:07"}
+{"star_rating": "1", "review": "Why did you remove the offline editor from here???", "date": "2022-07-22 14:51:16"}
+{"star_rating": "1", "review": "\ud83d\ude14\ud83d\ude1e badbad!!!\ud83e\udd2c\ud83e\udd2c", "date": "2022-07-20 11:46:42"}
+{"star_rating": "1", "review": "Very bad do not recomend", "date": "2022-07-20 09:17:46"}
+{"star_rating": "1", "review": "How dare you copy scratch", "date": "2022-07-15 13:30:06"}
+{"star_rating": "1", "review": "Bad", "date": "2022-07-14 17:24:32"}
+{"star_rating": "1", "review": "Good app . If has made my small brother like. Programming a lot", "date": "2022-07-08 14:57:54"}
+{"star_rating": "1", "review": "Bad, I have Castle on my vivo 1820.", "date": "2022-07-06 01:16:56"}
+{"star_rating": "1", "review": "\u062e\u06cc\u0644\u06cc \u0645\u0633\u062e\u0631\u0647 \u0647\u0633\u062a \u0628\u0632\u0627\u0631\u06cc \u062c\u0644\u0648 \u0628\u0686\u0647 \u06f2 \u0633\u0627\u0644\u0647 \u0647\u0645 \u0628\u0644\u062f\u0647 \u0628\u0627\u0647\u0627\u0634 \u06a9\u0627\u0631 \u06a9\u0646\u0647", "date": "2022-06-30 08:47:47"}
+{"star_rating": "1", "review": "Bad game", "date": "2022-06-19 19:58:27"}
+{"star_rating": "1", "review": "is a very nice app", "date": "2022-06-17 10:57:16"}
+{"star_rating": "1", "review": "NOTHING MOVES! :(", "date": "2022-06-16 19:17:53"}
+{"star_rating": "1", "review": "HOW DO I USE THIS I THOUGHT THIS WOULD BE EASY BECAUSE ITS SCRATCH FREAKING JUNIOR", "date": "2022-06-16 13:00:56"}

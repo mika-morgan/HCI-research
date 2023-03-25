@@ -1,0 +1,7 @@
+{"star_rating": "3", "review": "Still pretty good but how do you use cloud variables?", "date": "2022-02-15 09:19:32"}
+{"star_rating": "3", "review": "I was looking for way to learn coding that a 54 yr old (me) could use. Parent doesn't allow me to do the activities. Child seems deceiving for me to use. So I'll have to Uninstall.", "date": "2022-02-04 18:12:42"}
+{"star_rating": "3", "review": "The concept of building codes with blocks does interest me. However, I was unable to recover my account after years of offline. I had fun memories building codes with this apps. Now unfortunately, I have to stop there since I'm unable to recover my account", "date": "2022-02-03 07:37:48"}
+{"star_rating": "3", "review": "I like the App but it will not let me play my downlaoded music pls fix", "date": "2022-01-21 20:31:14"}
+{"star_rating": "3", "review": "hey to the creators I am on a computer.The game says its downloded buy i cant find it nor play it. THANK YOU!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!BYE BE YOU;)", "date": "2021-11-04 18:55:38"}
+{"star_rating": "3", "review": "I love tynker its just a bit harder to do on mobile than on computer.", "date": "2021-10-27 14:18:17"}
+{"star_rating": "3", "review": "When i tried to go in to the workshop (on mobile) it didnt let me in", "date": "2021-09-28 10:18:32"}
